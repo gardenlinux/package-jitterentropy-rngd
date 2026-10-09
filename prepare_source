@@ -1,4 +1,4 @@
 salsa_repo_commit="98b575fe4117eefc41d49d7160718c64341a7fd4" # 1.3.2-1
-version_suffix=gl0~bp1877
+version_suffix=gl0~bp2150
 
 git_src_commit "${salsa_repo_commit}" https://salsa.debian.org/debian/jitterentropy-rngd.git
